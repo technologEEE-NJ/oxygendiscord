@@ -7,7 +7,7 @@ A platform for us to connect virtually
 ### Discord Platform
 
 Q: What is Discord?\
-A: It's an app where people can socialize with voice and texts online. 
+A: It's an app where people can socialize with voice and texts online. [Here is a great overview](https://masonry.lochac.sca.org/discord-all-you-need-to-know/)
 
 
 Q: How to get Discord?\
@@ -17,6 +17,13 @@ A2: You can also:[Click here to "Open Discord in your browswer"](https://discord
 
 Q: How do I join the server?\
 A: We will send out a link to join the discord server. TODO
+
+
+Q: What do I do after I join the server?\
+A: Please check out the following channels:
+- #-welcome
+- #-rules
+- #-jackbox-onboarding
 
 ### Games
 #### Jackbox Games
