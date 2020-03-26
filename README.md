@@ -3,7 +3,7 @@
 A platform for us to connect virtually
 
 ## Scheduled Program
-- March 27th Friday 9PM: Trivia night
+- March 27th Friday 9PM: Jackbox Trivia night
 
 ## Logisics Overview
 
