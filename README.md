@@ -28,7 +28,6 @@ Q: What do I do after I join the server?\
 A: Please check out the following channels:
 - #-welcome
 - #-rules
-- #-jackbox-onboarding
 
 ### Games
 #### Jackbox Games
