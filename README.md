@@ -10,7 +10,7 @@ A platform for us to connect virtually
 ### Discord Platform
 
 Q: What is Discord?\
-A: It's an app where people can socialize with voice and texts online. [Here is a great overview](https://masonry.lochac.sca.org/discord-all-you-need-to-know/)
+A: It's an app where people can socialize with voice, live streaming and texts online. [Here is a great overview](https://masonry.lochac.sca.org/discord-all-you-need-to-know/)
 
 Q: Is Discord accessible via company laptop?
 A: No. **Please use your personal device, such as a smart phone, a tablet, or computer.**
