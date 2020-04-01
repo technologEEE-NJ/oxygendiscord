@@ -19,6 +19,10 @@ Q: How to get Discord?\
 A1: [Click here to download the application](https://discordapp.com/download).\
 A2: You can also:[Click here to "Open Discord in your browswer"](https://discordapp.com/)
 
+Note: It is preferrable to download the Discord App opposed to using the web browser. The downloaded application offers a more consistent user experience and has more features like streaming and enhanced push-to-talk.
+
+Note: If you choose to use the web browser version, use Chrome or Firefox for best experience (Safari and Edge/IE have bugs).
+
 
 Q: How do I join the server?\
 A: We will send out a link to join the discord server. TODO
