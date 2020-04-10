@@ -1,6 +1,6 @@
 # Oxygen Discord
 
-A platform for us to connect virtually
+A platform for us to connect virtually: <https://discord.gg/EAGWP9k>
 
 ## Scheduled Program
 - March 27th Friday 9PM: Jackbox Trivia night
