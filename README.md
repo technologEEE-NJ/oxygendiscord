@@ -2,11 +2,6 @@
 
 A platform for us to connect virtually: <https://discord.gg/EAGWP9k>
 
-## Scheduled Program
-- March 27th Friday 9PM: Jackbox Trivia night
-- April 1st Friday 8PM: Monopoly Board Game night
-- April 1st Friday 9PM: Open Party League of Legends
-
 ## Logisics Overview
 
 ### Discord Platform
